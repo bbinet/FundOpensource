@@ -1,4 +1,5 @@
-=== Fonctionnement général
+Fonctionnement général
+======================
 
 Chaque projet aura un espace dédié, sur lequel les utilisateurs auront la possibilité de soumettre des souhaits de développement d'une nouvelle fonctionnalité ou de bugfix, une sorte wishlist.
 
@@ -12,7 +13,8 @@ A ce stade, la communication entre utilisateurs et développeurs doit se mettre 
 
 Dés que le montant des dons atteint le montant spécifié dans le chiffrage, le développeur devra commencer les développements.
 
-=== Récapitulatif des étapes clés
+Récapitulatif des étapes clés
+-----------------------------
 
 1. Soumission d'une demande (description fonctionnelle)
 
@@ -22,11 +24,13 @@ Dés que le montant des dons atteint le montant spécifié dans le chiffrage, le
 
 4. Démarrage des développements lorsque le financement est atteint
 
-=== Communication interne
+Communication interne
+---------------------
 
 Il faudra donc prévoir des outils pour permettre aux développeurs et utilisateurs de communiquer facilement tous ensemble, afin de faire évoluer la demande initiale, répondre aux interrogations, aborder les problèmes techniques...
 
-=== Communication externe
+Communication externe
+---------------------
 
 Il faut également donner la possibilité aux utilisateurs de promouvoir les fonctionnalités qu'ils souhaitent voir développées afin d'attirer un maximum d'intéressés/donateurs pour que le développement soit engagé rapidement.
 
@@ -37,6 +41,3 @@ Un exemple de widget serait une banière avec barre de progression du montant re
 
 On cherchera à bénéficier d'un effet boule de neige: il est probable que plus le montant restant à financer pour atteindre la somme chiffrée tend vers 0, plus cela incite les gens à donner pour combler le montant manquant, afin que le développement puisse démarrer.
 
------
-
-Précédent: [[PresentationIdee]] | Suivant: [[BusinessModel]]

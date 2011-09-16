@@ -1,4 +1,5 @@
-== Présentation de l'idée du financement communautaire des projets opensource
+Présentation
+============
 
 La problématique porte sur un modèle de financement pour les projets opensource, et l'idée vient à l'origine des constats simples suivants:
 
@@ -15,6 +16,3 @@ Ce système doit profiter aux 3 parties suivantes:
  * développeur: il est rétribué pour son travail
  * projet: il gagne des évolutions et des corrections de bug
 
------
-
-Précédent: [[Home]] | Suivant: [[Fonctionnement]]

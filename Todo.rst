@@ -1,3 +1,6 @@
+Todo
+====
+
  * Regarder si il existe déjà des entreprises qui fournissent ce genre de service.
 
  * Voir si on ne peut prendre des idées au système flattr qui est intéressant:
@@ -15,7 +18,8 @@
   ** se documenter sur le fonctionnement de flattr, paypal, sur les frais engendrés
   ** demander conseil à un financier, un banquier  
 
-=== Liens intéressants
+Liens intéressants
+------------------
 
 Des projets qui se rapprochent:
 
@@ -32,7 +36,5 @@ Des projets qui se rapprochent:
 Autres:
 
  * http://philippe.scoffoni.net/places-de-marche-logiciels-libres-open-source/
- * [[http://linuxfr.org/2010/10/18/27484.html|réactions de la communauté LinuxFR sur Flattr]]
------
+ * `réactions de la communauté LinuxFR sur Flattr <http://linuxfr.org/2010/10/18/27484.html>`_
 
-Précédent: [[ReglesDuJeu]] | Suivant: [[Home]]

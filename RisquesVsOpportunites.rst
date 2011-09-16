@@ -1,4 +1,8 @@
-=== Risques
+Risques vs opportunités
+=======================
+
+Risques
+-------
 
  * les utilisateurs cofinanceurs n'arrivent pas à se mettre d'accord sur le cahier des charges
  * les utilisateurs ne paient pas le montant qu'ils avaient annoncé
@@ -8,10 +12,10 @@
  * méconnaissance du domaine financier/juridique
  * comment déterminer et controller que ce sont les développeurs "officiels" d'un projet?
 
-La page [[ReglesDuJeu]] tente d'apporter des réponses à ces risques.
+La page :doc:`ReglesDuJeu` tente d'apporter des réponses à ces risques.
 
-
-=== Opportunités
+Opportunités
+------------
 
 Le système financier proposé permet de réduire les risques, et ses avantages sont multiples:
  * l'effort financier sera partagé par les clients intéressés
@@ -21,6 +25,3 @@ Le système financier proposé permet de réduire les risques, et ses avantages 
  * communication/publicité très facile auprès de projets opensource via les mailing lists, irc, et bouche à oreille
  * le bon esprit inhérent au logiciel libre minimisera le nombre de personnes qui ne joue pas le jeu
 
------
-
-Précédent: [[BusinessModel]] | Suivant: [[ReglesDuJeu]]
