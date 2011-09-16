@@ -1,5 +1,5 @@
-Fixer les règles du jeu!
-========================
+Fixer les règles du jeu
+=======================
 
 C'est à nous de fixer des règles intelligentes, où tout le monde trouve son compte, et où le partage du boulot et des rétributions est équitable, juste. Ces règles doivent être à l'avantage de ceux qui jouent le jeu.
 
@@ -31,7 +31,7 @@ Le vote pourrait être organisé:
 
 .. rubric:: Aléatoire
 
-Un mécanisme aléatoire pourrait décider à qui est attribué le "marché" parmi les volontaires. 
+Un mécanisme aléatoire pourrait décider à qui est attribué le "marché" parmi les volontaires.
 
 .. rubric:: Développer à plusieurs
 
@@ -179,7 +179,7 @@ Comment déterminer et controller les développeurs potentiels d'un projet?
 .. rubric:: Droit de commit
 
 Ils doivent avoir le droit de commit sur le repository du projet.
-Le contrôle de la "validité" de ces développeurs peut d'abord être à la charge de la personne responsable du projet dans notre système. Ensuite, il pourrait être possible pour n'importe qui de reporter des abus. 
+Le contrôle de la "validité" de ces développeurs peut d'abord être à la charge de la personne responsable du projet dans notre système. Ensuite, il pourrait être possible pour n'importe qui de reporter des abus.
 
 
 PROBLEME:
@@ -195,6 +195,4 @@ Et en cas de désaccord lors de la rédaction communautaire du cahier des charge
 Il faudrait un système de votes très simple qui permettent de prendre les décisions après discussion. Ceci afin d'éviter les situations de blocage
 .
 On pourrait imaginer un sytème où chaque cofinanceur à une voix, et en cas d'égalité, le premier cofinanceur (celui qui a créé la demande) obtient une voix supplémentaire pour trancher.
-
-
 
