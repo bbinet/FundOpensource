@@ -1,4 +1,4 @@
-Philisophie
+Philosophie
 ===========
 
 Cette partie intitulée "Philosophie" retient les principales valeurs portées par le projet.
