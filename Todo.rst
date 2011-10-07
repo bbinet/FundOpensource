@@ -25,6 +25,7 @@ Liens intéressants
 
 Des projets qui se rapprochent:
 
+ * http://prizes.org/
  * http://nextsprocket.com/
  * http://cofundos.org/
  * http://micropledge.com/
