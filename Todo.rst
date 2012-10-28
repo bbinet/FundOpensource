@@ -25,6 +25,10 @@ Liens intéressants
 
 Des projets qui se rapprochent:
 
+ * https://elveos.org/
+ * http://www.freedomsponsors.org/
+ * https://www.catincan.com/
+
  * http://prizes.org/
  * http://nextsprocket.com/
  * http://cofundos.org/
