@@ -27,6 +27,7 @@ Des projets qui se rapprochent:
 
  * https://elveos.org/
  * http://www.freedomsponsors.org/
+ * http://gun.io/
  * https://www.catincan.com/
 
  * http://prizes.org/
