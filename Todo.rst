@@ -26,6 +26,7 @@ Liens intéressants
 Des projets qui se rapprochent:
 
  * https://elveos.org/
+ * http://funding.openinitiative.com/
  * https://www.bountysource.com/
  * http://www.freedomsponsors.org/
  * http://gun.io/
